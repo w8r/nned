@@ -1,0 +1,11 @@
+xn:
+	QtXml.framework/Versions/4/QtXml (compatibility version 4.3.0, current version 4.3.4)
+	QtGui.framework/Versions/4/QtGui (compatibility version 4.3.0, current version 4.3.4)
+	/System/Library/Frameworks/Carbon.framework/Versions/A/Carbon (compatibility version 2.0.0, current version 136.0.0)
+	/System/Library/Frameworks/AppKit.framework/Versions/C/AppKit (compatibility version 45.0.0, current version 949.27.0)
+	QtCore.framework/Versions/4/QtCore (compatibility version 4.3.0, current version 4.3.4)
+	/usr/lib/libiconv.2.dylib (compatibility version 7.0.0, current version 7.0.0)
+	/usr/lib/libz.1.dylib (compatibility version 1.0.0, current version 1.2.3)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 111.0.0)
+	/usr/lib/libstdc++.6.dylib (compatibility version 7.0.0, current version 7.4.0)
+	/usr/lib/libgcc_s.1.dylib (compatibility version 1.0.0, current version 1.0.0)

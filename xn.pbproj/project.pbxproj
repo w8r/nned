@@ -1,0 +1,673 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 34;
+	objects = {
+		D7BA7D76DAB5DD13389D6332 = {
+			buildActionMask = 2147483647;
+			files = (
+				);
+			generatedFileNames = (
+				);
+			isa = PBXShellScriptBuildPhase;
+			name = "Qt Qmake";
+			neededFileNames = (
+				);
+			shellPath = "/bin/sh";
+			shellScript = "make\ -C\ /Developer/Applications/w8r/qt/xn\ -f\ xn.pbproj/qt_makeqmake.mak";
+		};
+		FC41D54AA9A330A94FA8BA62 = {
+			isa = PBXFileReference;
+			name = "dtneuron.cpp";
+			path = "dtneuron.cpp";
+			refType = 4;
+		};
+		29BDEE2C2DCD381DD8D624EC = {
+			fileRef = "FC41D54AA9A330A94FA8BA62";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		890C6C6FCD026637B911DF1D = {
+			isa = PBXFileReference;
+			name = "edgeconfiguration.cpp";
+			path = "edgeconfiguration.cpp";
+			refType = 4;
+		};
+		35341315E1D3CCE80F80F767 = {
+			fileRef = "890C6C6FCD026637B911DF1D";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		7F47E0190DC3B21211459177 = {
+			isa = PBXFileReference;
+			name = "ednetwork.cpp";
+			path = "ednetwork.cpp";
+			refType = 4;
+		};
+		5F2A7F8DF6A1966E4067AC4B = {
+			fileRef = "7F47E0190DC3B21211459177";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		83614DE2E106FC36D6D58516 = {
+			isa = PBXFileReference;
+			name = "ednetworkmember.cpp";
+			path = "ednetworkmember.cpp";
+			refType = 4;
+		};
+		EF7293F6CFBE2E6542181011 = {
+			fileRef = "83614DE2E106FC36D6D58516";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		7B8CD2EA3A559332B4D519ED = {
+			isa = PBXFileReference;
+			name = "edsubnetwork.cpp";
+			path = "edsubnetwork.cpp";
+			refType = 4;
+		};
+		2AA10D14FCFFC23664BB8E00 = {
+			fileRef = "7B8CD2EA3A559332B4D519ED";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		938885395995B2E692D24C88 = {
+			isa = PBXFileReference;
+			name = "greyscalewindow.cpp";
+			path = "greyscalewindow.cpp";
+			refType = 4;
+		};
+		1ACCCFB6F251539683009048 = {
+			fileRef = "938885395995B2E692D24C88";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		118FCBAABA162BA17933C789 = {
+			isa = PBXFileReference;
+			name = "main.cpp";
+			path = "main.cpp";
+			refType = 4;
+		};
+		2B093CA6F071B023A473CED0 = {
+			fileRef = "118FCBAABA162BA17933C789";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		85B93CDB2E6366D28FE95C81 = {
+			isa = PBXFileReference;
+			name = "nedtreeview.cpp";
+			path = "nedtreeview.cpp";
+			refType = 4;
+		};
+		2C433A91D8ADA0FB1FAC4FDF = {
+			fileRef = "85B93CDB2E6366D28FE95C81";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		F87104CD62AFD05FF3468042 = {
+			isa = PBXFileReference;
+			name = "neuron.cpp";
+			path = "neuron.cpp";
+			refType = 4;
+		};
+		E758D1D3C443006F0135E071 = {
+			fileRef = "F87104CD62AFD05FF3468042";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		A3B9494F821DCE9EB4D1EABF = {
+			isa = PBXFileReference;
+			name = "traindialog.cpp";
+			path = "traindialog.cpp";
+			refType = 4;
+		};
+		D1CC228F004B394D87469202 = {
+			fileRef = "A3B9494F821DCE9EB4D1EABF";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		183A23F8E4FEDC291BD0EDB7 = {
+			isa = PBXFileReference;
+			name = "xnned.cpp";
+			path = "xnned.cpp";
+			refType = 4;
+		};
+		AAEDB8D8FA8A2FE45390EB5F = {
+			fileRef = "183A23F8E4FEDC291BD0EDB7";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		81BFA3DE1813D8D3411387B8 = {
+			isa = PBXFileReference;
+			name = "moc_nedtreeview.cpp";
+			path = "moc_nedtreeview.cpp";
+			refType = 4;
+		};
+		9F60AE7E60919B9905D760F9 = {
+			fileRef = "81BFA3DE1813D8D3411387B8";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		66A891FB9E794E67720557DF = {
+			isa = PBXFileReference;
+			name = "moc_traindialog.cpp";
+			path = "moc_traindialog.cpp";
+			refType = 4;
+		};
+		1F28F6F754D6E9BCF723D627 = {
+			fileRef = "66A891FB9E794E67720557DF";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		2DA158F93E2F8D6B5B732EE3 = {
+			isa = PBXFileReference;
+			name = "moc_xnned.cpp";
+			path = "moc_xnned.cpp";
+			refType = 4;
+		};
+		E966F68D795E3CD5D853F370 = {
+			fileRef = "2DA158F93E2F8D6B5B732EE3";
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+					);
+			};
+		};
+		0394C9C6ED142212DDAEE94D = {
+			isa = PBXFileReference;
+			name = "dtneuron.h";
+			path = "dtneuron.h";
+			refType = 4;
+		};
+		0AF17390B44814FFCBE953A9 = {
+			isa = PBXFileReference;
+			name = "edgeconfiguration.h";
+			path = "edgeconfiguration.h";
+			refType = 4;
+		};
+		C4DAA2B8244E47117B45E594 = {
+			isa = PBXFileReference;
+			name = "ednetwork.h";
+			path = "ednetwork.h";
+			refType = 4;
+		};
+		71CF16DF0B66200FC3DF24BB = {
+			isa = PBXFileReference;
+			name = "ednetworkmember.h";
+			path = "ednetworkmember.h";
+			refType = 4;
+		};
+		9CD11DE4DE3FA22BF88325D8 = {
+			isa = PBXFileReference;
+			name = "edsubnetwork.h";
+			path = "edsubnetwork.h";
+			refType = 4;
+		};
+		45976686A07321410A8553C5 = {
+			isa = PBXFileReference;
+			name = "globals.h";
+			path = "globals.h";
+			refType = 4;
+		};
+		F44AF145339012B91D4B3E6B = {
+			isa = PBXFileReference;
+			name = "greyscalewindow.h";
+			path = "greyscalewindow.h";
+			refType = 4;
+		};
+		D4CA8312ABE6C87061AC5D97 = {
+			isa = PBXFileReference;
+			name = "nedtreeview.h";
+			path = "nedtreeview.h";
+			refType = 4;
+		};
+		BA5D1B29E614FBA50ED0AE86 = {
+			isa = PBXFileReference;
+			name = "neuron.h";
+			path = "neuron.h";
+			refType = 4;
+		};
+		00709E3BFA48D4F3E74662EA = {
+			isa = PBXFileReference;
+			name = "traindialog.h";
+			path = "traindialog.h";
+			refType = 4;
+		};
+		AC64CC0DC9A27B681F6DC5D0 = {
+			isa = PBXFileReference;
+			name = "xnned.h";
+			path = "xnned.h";
+			refType = 4;
+		};
+		A8C41D277B9244960D7405CB = {
+			isa = PBXFileReference;
+			name = "xn.pro";
+			path = "xn.pro";
+			refType = 4;
+		};
+		883D7615C4D2DE3FA1218F12 = {
+			isa = PBXGroup;
+			children = (
+				"0394C9C6ED142212DDAEE94D",
+				"0AF17390B44814FFCBE953A9",
+				"C4DAA2B8244E47117B45E594",
+				"71CF16DF0B66200FC3DF24BB",
+				"9CD11DE4DE3FA22BF88325D8",
+				"45976686A07321410A8553C5",
+				"F44AF145339012B91D4B3E6B",
+				"D4CA8312ABE6C87061AC5D97",
+				"BA5D1B29E614FBA50ED0AE86",
+				"00709E3BFA48D4F3E74662EA",
+				"AC64CC0DC9A27B681F6DC5D0");
+			name = "Headers";
+			refType = 4;
+		};
+		FB61758D0F0FDA4BA867C3D5 = {
+			isa = PBXGroup;
+			children = (
+				"FC41D54AA9A330A94FA8BA62",
+				"890C6C6FCD026637B911DF1D",
+				"7F47E0190DC3B21211459177",
+				"83614DE2E106FC36D6D58516",
+				"7B8CD2EA3A559332B4D519ED",
+				"938885395995B2E692D24C88",
+				"118FCBAABA162BA17933C789",
+				"85B93CDB2E6366D28FE95C81",
+				"F87104CD62AFD05FF3468042",
+				"A3B9494F821DCE9EB4D1EABF",
+				"183A23F8E4FEDC291BD0EDB7");
+			name = "Sources";
+			refType = 4;
+		};
+		7CABE3C80E79AD2B307756D2 = {
+			isa = PBXGroup;
+			children = (
+				"A8C41D277B9244960D7405CB");
+			name = "Sources [qmake]";
+			refType = 4;
+		};
+		46E892BBB6BB6952967E0561 = {
+			isa = PBXGroup;
+			children = (
+				"81BFA3DE1813D8D3411387B8",
+				"66A891FB9E794E67720557DF",
+				"2DA158F93E2F8D6B5B732EE3");
+			name = "Temporary Sources";
+			refType = 4;
+		};
+		A0A52A2ADF7A1E2A99738674 = {
+			buildActionMask = 2147483647;
+			files = (
+				);
+			generatedFileNames = (
+				"29BDEE2C2DCD381DD8D624EC",
+				"35341315E1D3CCE80F80F767",
+				"5F2A7F8DF6A1966E4067AC4B",
+				"EF7293F6CFBE2E6542181011",
+				"2AA10D14FCFFC23664BB8E00",
+				"1ACCCFB6F251539683009048",
+				"2B093CA6F071B023A473CED0",
+				"2C433A91D8ADA0FB1FAC4FDF",
+				"E758D1D3C443006F0135E071",
+				"D1CC228F004B394D87469202",
+				"AAEDB8D8FA8A2FE45390EB5F",
+				"9F60AE7E60919B9905D760F9",
+				"1F28F6F754D6E9BCF723D627",
+				"E966F68D795E3CD5D853F370");
+			isa = PBXShellScriptBuildPhase;
+			name = "Qt Preprocessors";
+			neededFileNames = (
+				"29BDEE2C2DCD381DD8D624EC",
+				"35341315E1D3CCE80F80F767",
+				"5F2A7F8DF6A1966E4067AC4B",
+				"EF7293F6CFBE2E6542181011",
+				"2AA10D14FCFFC23664BB8E00",
+				"1ACCCFB6F251539683009048",
+				"2B093CA6F071B023A473CED0",
+				"2C433A91D8ADA0FB1FAC4FDF",
+				"E758D1D3C443006F0135E071",
+				"D1CC228F004B394D87469202",
+				"AAEDB8D8FA8A2FE45390EB5F",
+				"9F60AE7E60919B9905D760F9",
+				"1F28F6F754D6E9BCF723D627",
+				"E966F68D795E3CD5D853F370");
+			shellPath = "/bin/sh";
+			shellScript = "make\ -C\ /Developer/Applications/w8r/qt/xn\ -f\ xn.pbproj/qt_preprocess.mak";
+		};
+		C29B8785722055ED95EF7B57 = {
+			buildActionMask = 2147483647;
+			files = (
+				"29BDEE2C2DCD381DD8D624EC",
+				"35341315E1D3CCE80F80F767",
+				"5F2A7F8DF6A1966E4067AC4B",
+				"EF7293F6CFBE2E6542181011",
+				"2AA10D14FCFFC23664BB8E00",
+				"1ACCCFB6F251539683009048",
+				"2B093CA6F071B023A473CED0",
+				"2C433A91D8ADA0FB1FAC4FDF",
+				"E758D1D3C443006F0135E071",
+				"D1CC228F004B394D87469202",
+				"AAEDB8D8FA8A2FE45390EB5F",
+				"9F60AE7E60919B9905D760F9",
+				"1F28F6F754D6E9BCF723D627",
+				"E966F68D795E3CD5D853F370");
+			isa = PBXSourcesBuildPhase;
+			name = "Build Sources";
+		};
+		890EA7679682729A2F29ABC2 = {
+			isa = PBXFileReference;
+			name = "QtXml_debug";
+			path = "/usr/local/Trolltech/Qt-4.3.0/lib/libQtXml_debug.a";
+			refType = 0;
+		};
+		B6365F08DF8FE4E679090FD3 = {
+			fileRef = "890EA7679682729A2F29ABC2";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		E3D479AFD4FEC9C7B659DA76 = {
+			isa = PBXFileReference;
+			name = "QtGui_debug";
+			path = "/usr/local/Trolltech/Qt-4.3.0/lib/libQtGui_debug.a";
+			refType = 0;
+		};
+		E393E6DCCB339C5049872228 = {
+			fileRef = "E3D479AFD4FEC9C7B659DA76";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		DA138F75C9F545CDAE7FB264 = {
+			isa = PBXFrameworkReference;
+			name = "Carbon.framework";
+			path = "/System/Library/Frameworks/Carbon.framework";
+			refType = 0;
+		};
+		C8FD4A1AAA37CF2CA2824CCF = {
+			fileRef = "DA138F75C9F545CDAE7FB264";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		821416211D63F190AAAD016A = {
+			isa = PBXFrameworkReference;
+			name = "AppKit.framework";
+			path = "/System/Library/Frameworks/AppKit.framework";
+			refType = 0;
+		};
+		51D4DBF7CB8537BE86EBD055 = {
+			fileRef = "821416211D63F190AAAD016A";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		6D81EF8C3A43ADC8C748BFD4 = {
+			isa = PBXFileReference;
+			name = "QtCore_debug";
+			path = "/usr/local/Trolltech/Qt-4.3.0/lib/libQtCore_debug.a";
+			refType = 0;
+		};
+		7D9C063A90C418DD903308CA = {
+			fileRef = "6D81EF8C3A43ADC8C748BFD4";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		27AE7A480FD6C52FCA80FECD = {
+			isa = PBXFrameworkReference;
+			name = "ApplicationServices.framework";
+			path = "/System/Library/Frameworks/ApplicationServices.framework";
+			refType = 0;
+		};
+		F9E76E570E10AF14870553A7 = {
+			fileRef = "27AE7A480FD6C52FCA80FECD";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		ED1E82605DD74B483AF3C982 = {
+			children = (
+				"890EA7679682729A2F29ABC2",
+				"E3D479AFD4FEC9C7B659DA76",
+				"DA138F75C9F545CDAE7FB264",
+				"821416211D63F190AAAD016A",
+				"6D81EF8C3A43ADC8C748BFD4",
+				"27AE7A480FD6C52FCA80FECD");
+			isa = PBXGroup;
+			name = "External Frameworks and Libraries";
+			path = "";
+			refType = 4;
+		};
+		2A1043669E6E5A7426EA502A = {
+			buildActionMask = 2147483647;
+			files = (
+				"B6365F08DF8FE4E679090FD3",
+				"E393E6DCCB339C5049872228",
+				"C8FD4A1AAA37CF2CA2824CCF",
+				"51D4DBF7CB8537BE86EBD055",
+				"7D9C063A90C418DD903308CA",
+				"F9E76E570E10AF14870553A7");
+			isa = PBXFrameworksBuildPhase;
+			name = "Frameworks & Libraries";
+		};
+		3787F99312C85FF0073FD7BA = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXResourcesBuildPhase;
+			name = "Bundle Resources";
+		};
+		F6069D5A5DA8AA28EDB8B3C6 = {
+			name = "Project Copy";
+			buildActionMask = 2147483647;
+			dstPath = "/Developer/Applications/w8r/qt/xn";
+			dstSubfolderSpec = 0;
+			files = (
+				);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07E0DFA73EB56DCB9E28CDD9 = {
+			fileRef = "C34A65A26C493C797AB179A8";
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		05596AB53D8D521C69802C27 = {
+			children = (
+				"FB61758D0F0FDA4BA867C3D5",
+				"46E892BBB6BB6952967E0561",
+				"883D7615C4D2DE3FA1218F12",
+				"7CABE3C80E79AD2B307756D2",
+				"ED1E82605DD74B483AF3C982");
+			isa = PBXGroup;
+			name = "xn";
+			path = "";
+			refType = 4;
+		};
+		C34A65A26C493C797AB179A8 = {
+			isa = PBXFileReference;
+			explicitFileType = "wrapper.application";
+			path = "xn.app";
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		068F80C7519D0528FB08E821 = {
+			children = (
+				"C34A65A26C493C797AB179A8");
+			isa = PBXGroup;
+			name = "Products";
+			refType = 4;
+		};
+		84E0A74CEDF0FA232A2491C3 = {
+			buildPhases = (
+				"D7BA7D76DAB5DD13389D6332",
+				"A0A52A2ADF7A1E2A99738674",
+				"F6069D5A5DA8AA28EDB8B3C6",
+				"C29B8785722055ED95EF7B57",
+				"2A1043669E6E5A7426EA502A",
+				"3787F99312C85FF0073FD7BA");
+			buildSettings = {
+				CC = "/usr/bin/cc";
+				CPLUSPLUS = "/usr/bin/c++";
+				HEADER_SEARCH_PATHS = (
+					"/usr/local/Trolltech/Qt-4.3.0/include/QtCore",
+					"/usr/local/Trolltech/Qt-4.3.0/include/QtCore",
+					"/usr/local/Trolltech/Qt-4.3.0/include/QtGui",
+					"/usr/local/Trolltech/Qt-4.3.0/include/QtGui",
+					"/usr/local/Trolltech/Qt-4.3.0/include/QtXml",
+					"/usr/local/Trolltech/Qt-4.3.0/include/QtXml",
+					"/usr/local/Trolltech/Qt-4.3.0/include",
+					".",
+					".",
+					".",
+					"/usr/local/include",
+					"/System/Library/Frameworks/CarbonCore.framework/Headers",
+					"/usr/local/Trolltech/Qt-4.3.0/mkspecs/macx-xcode");
+				LIBRARY_SEARCH_PATHS = (
+					"/usr/local/Trolltech/Qt-4.3.0/lib",
+					"/usr/local/Trolltech/Qt-4.3.0/lib",
+					"/System/Library/Frameworks/");
+				OPTIMIZATION_CFLAGS = (
+					);
+				OTHER_CFLAGS = (
+					"-pipe",
+					"-g",
+					"-Wall",
+					"-W",
+					"-DQT_XML_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB");
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pipe",
+					"-g",
+					"-Wall",
+					"-W",
+					"-DQT_XML_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB");
+				LEXFLAGS = "";
+				YACCFLAGS = "-d";
+				OTHER_REZFLAGS = "";
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "";
+				PREBINDINGS = NO;
+				INFOPLIST_FILE = "Info.plist";
+				BUILD_ROOT = "/Developer/Applications/w8r/qt/xn";
+				OTHER_LDFLAGS = (
+					"-headerpad_max_install_names",
+					"-L/usr/local/Trolltech/Qt-4.3.0/lib",
+					"-L/usr/local/Trolltech/Qt-4.3.0/lib",
+					"-lz",
+					"-lm");
+				DYLIB_CURRENT_VERSION = "1.0.0";
+				DYLIB_COMPATIBILITY_VERSION = "1.0";
+				WRAPPER_SUFFIX = "app";
+				PRODUCT_NAME = "xn";
+			};
+			conditionalBuildSettings = {
+			};
+			dependencies = (
+				);
+			productReference = "C34A65A26C493C797AB179A8";
+			shouldUseHeadermap = 1;
+			isa = PBXApplicationTarget;
+			productSettingsXML = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<!DOCTYPE plist SYSTEM \"file://localhost/System/Library/DTDs/PropertyList.dtd\">
+<plist version=\"0.9\">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+        <key>CFBundleGetInfoString</key>
+	<string>Created by Qt/QMake</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleExecutable</key>
+	<string>xn</string>
+	<key>NOTE</key>
+	<string>Please, do NOT change this file -- It was generated by Qt/QMake.</string>
+</dict>
+</plist>
+";
+			name = "xn";
+			productName = "xn";
+			startupPath = "<<ProjectDirectory>>";
+		};
+		8D0921A599A626D1569D9498 = {
+			buildRules = (
+				);
+			buildSettings = {
+				COPY_PHASE_STRIP = "NO";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "YES";
+				GCC_OPTIMIZATION_LEVEL = "0";
+			};
+			isa = "PBXBuildStyle";
+			name = "Development";
+		};
+		4CFAD8B741C7FF5A47E1CF98 = {
+			buildRules = (
+				);
+			buildSettings = {
+				COPY_PHASE_STRIP = "YES";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = "NO";
+			};
+			isa = "PBXBuildStyle";
+			name = "Deployment";
+		};
+		91B15E841AA80083484172DE = {
+			buildStyles = (
+				"8D0921A599A626D1569D9498");
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			mainGroup = "05596AB53D8D521C69802C27";
+			projectDirPath = "";
+			targets = (
+				"84E0A74CEDF0FA232A2491C3");
+		};
+	};
+	rootObject = "91B15E841AA80083484172DE";
+}

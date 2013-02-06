@@ -1,0 +1,827 @@
+<preferences>
+ <network>
+  <subnetwork illumination="4.77778" >
+   <neuron type="weak" >
+    <upperthreshold>14.3333</upperthreshold>
+    <lowerthreshold>0</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>18.6667</upperthreshold>
+    <lowerthreshold>0</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="14.8889" >
+   <neuron type="weak" >
+    <upperthreshold>20.75</upperthreshold>
+    <lowerthreshold>16.4</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>44.6667</upperthreshold>
+    <lowerthreshold>0</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="27.1111" >
+   <neuron type="weak" >
+    <upperthreshold>30.25</upperthreshold>
+    <lowerthreshold>27</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>81.3333</upperthreshold>
+    <lowerthreshold>0</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="37.6667" >
+   <neuron type="weak" >
+    <upperthreshold>47.5</upperthreshold>
+    <lowerthreshold>40.8</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>113</upperthreshold>
+    <lowerthreshold>0</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="57.7778" >
+   <neuron type="weak" >
+    <upperthreshold>66.25</upperthreshold>
+    <lowerthreshold>63</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>72.6667</upperthreshold>
+    <lowerthreshold>50.3333</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="99.1111" >
+   <neuron type="weak" >
+    <upperthreshold>107</upperthreshold>
+    <lowerthreshold>89.25</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>141.667</upperthreshold>
+    <lowerthreshold>39.1667</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="104.222" >
+   <neuron type="weak" >
+    <upperthreshold>121.8</upperthreshold>
+    <lowerthreshold>25.75</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>115</upperthreshold>
+    <lowerthreshold>95.6</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="107.778" >
+   <neuron type="weak" >
+    <upperthreshold>110.6</upperthreshold>
+    <lowerthreshold>104.25</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>116.5</upperthreshold>
+    <lowerthreshold>19</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="115.556" >
+   <neuron type="weak" >
+    <upperthreshold>123.333</upperthreshold>
+    <lowerthreshold>26.6667</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>118</upperthreshold>
+    <lowerthreshold>113.6</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="117.556" >
+   <neuron type="weak" >
+    <upperthreshold>121</upperthreshold>
+    <lowerthreshold>115.833</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>141.333</upperthreshold>
+    <lowerthreshold>35.3333</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="122.222" >
+   <neuron type="weak" >
+    <upperthreshold>125</upperthreshold>
+    <lowerthreshold>120</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>153.167</upperthreshold>
+    <lowerthreshold>38.3333</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="124.222" >
+   <neuron type="weak" >
+    <upperthreshold>127.333</upperthreshold>
+    <lowerthreshold>122.667</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>151.167</upperthreshold>
+    <lowerthreshold>53</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="128.222" >
+   <neuron type="weak" >
+    <upperthreshold>162.667</upperthreshold>
+    <lowerthreshold>53.3333</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>132.25</upperthreshold>
+    <lowerthreshold>125</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="130.222" >
+   <neuron type="weak" >
+    <upperthreshold>155.333</upperthreshold>
+    <lowerthreshold>121.333</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>133.667</upperthreshold>
+    <lowerthreshold>128.5</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="133.667" >
+   <neuron type="weak" >
+    <upperthreshold>141.2</upperthreshold>
+    <lowerthreshold>124.25</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>160.25</upperthreshold>
+    <lowerthreshold>120.4</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="138.333" >
+   <neuron type="weak" >
+    <upperthreshold>163</upperthreshold>
+    <lowerthreshold>123.2</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>141.167</upperthreshold>
+    <lowerthreshold>132.667</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="140.222" >
+   <neuron type="weak" >
+    <upperthreshold>165.667</upperthreshold>
+    <lowerthreshold>132.833</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>144</upperthreshold>
+    <lowerthreshold>137.2</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="156" >
+   <neuron type="weak" >
+    <upperthreshold>161</upperthreshold>
+    <lowerthreshold>149.75</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>170.75</upperthreshold>
+    <lowerthreshold>134.2</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="164.222" >
+   <neuron type="weak" >
+    <upperthreshold>203.25</upperthreshold>
+    <lowerthreshold>131.4</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>182</upperthreshold>
+    <lowerthreshold>150</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="169.889" >
+   <neuron type="weak" >
+    <upperthreshold>178.5</upperthreshold>
+    <lowerthreshold>163</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>226.5</upperthreshold>
+    <lowerthreshold>117.8</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="174.111" >
+   <neuron type="weak" >
+    <upperthreshold>217.4</upperthreshold>
+    <lowerthreshold>117</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>181.833</upperthreshold>
+    <lowerthreshold>158.667</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="182.444" >
+   <neuron type="weak" >
+    <upperthreshold>185.25</upperthreshold>
+    <lowerthreshold>180.2</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>221.25</upperthreshold>
+    <lowerthreshold>151.4</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="184.889" >
+   <neuron type="weak" >
+    <upperthreshold>188.8</upperthreshold>
+    <lowerthreshold>180</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>224</upperthreshold>
+    <lowerthreshold>149.4</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="191.889" >
+   <neuron type="weak" >
+    <upperthreshold>214.667</upperthreshold>
+    <lowerthreshold>178.333</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>193.2</upperthreshold>
+    <lowerthreshold>190.25</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="195" >
+   <neuron type="weak" >
+    <upperthreshold>239.333</upperthreshold>
+    <lowerthreshold>182.667</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>198.5</upperthreshold>
+    <lowerthreshold>192.2</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="210.889" >
+   <neuron type="weak" >
+    <upperthreshold>210.4</upperthreshold>
+    <lowerthreshold>203.75</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>235</upperthreshold>
+    <lowerthreshold>198.833</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="221.667" >
+   <neuron type="weak" >
+    <upperthreshold>237</upperthreshold>
+    <lowerthreshold>219.5</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>243.2</upperthreshold>
+    <lowerthreshold>194.75</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="233" >
+   <neuron type="weak" >
+    <upperthreshold>239.6</upperthreshold>
+    <lowerthreshold>224.75</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>245.833</upperthreshold>
+    <lowerthreshold>207.667</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="236.556" >
+   <neuron type="weak" >
+    <upperthreshold>249.8</upperthreshold>
+    <lowerthreshold>220</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>241.2</upperthreshold>
+    <lowerthreshold>237.5</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="243.222" >
+   <neuron type="weak" >
+    <upperthreshold>251.5</upperthreshold>
+    <lowerthreshold>245</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>251.143</upperthreshold>
+    <lowerthreshold>215.5</lowerthreshold>
+   </neuron>
+  </subnetwork>
+  <subnetwork illumination="250.556" >
+   <neuron type="weak" >
+    <upperthreshold>252.857</upperthreshold>
+    <lowerthreshold>242.5</lowerthreshold>
+   </neuron>
+   <neuron type="strong" >
+    <upperthreshold>254</upperthreshold>
+    <lowerthreshold>253</lowerthreshold>
+   </neuron>
+  </subnetwork>
+ </network>
+ <validedges>
+  <edgemap>100101101</edgemap>
+  <edgemap>110100011</edgemap>
+  <edgemap>111000110</edgemap>
+  <edgemap>011101100</edgemap>
+  <edgemap>101101001</edgemap>
+  <edgemap>110001011</edgemap>
+  <edgemap>011000111</edgemap>
+  <edgemap>000111111</edgemap>
+  <edgemap>100110111</edgemap>
+  <edgemap>110110110</edgemap>
+  <edgemap>111110100</edgemap>
+  <edgemap>111111000</edgemap>
+  <edgemap>111011001</edgemap>
+  <edgemap>011011011</edgemap>
+  <edgemap>000100111</edgemap>
+  <edgemap>100100110</edgemap>
+  <edgemap>110100100</edgemap>
+  <edgemap>111100000</edgemap>
+  <edgemap>111001000</edgemap>
+  <edgemap>011001001</edgemap>
+  <edgemap>001001011</edgemap>
+  <edgemap>000110100</edgemap>
+  <edgemap>100110000</edgemap>
+  <edgemap>110010000</edgemap>
+  <edgemap>011010000</edgemap>
+  <edgemap>001011000</edgemap>
+  <edgemap>000011001</edgemap>
+  <edgemap>000010011</edgemap>
+  <edgemap>000001011</edgemap>
+  <edgemap>000000111</edgemap>
+  <edgemap>000100110</edgemap>
+  <edgemap>100100100</edgemap>
+  <edgemap>110100000</edgemap>
+  <edgemap>111000000</edgemap>
+  <edgemap>011001000</edgemap>
+  <edgemap>000110001</edgemap>
+  <edgemap>100010010</edgemap>
+  <edgemap>010010100</edgemap>
+  <edgemap>001110000</edgemap>
+  <edgemap>100011000</edgemap>
+  <edgemap>010010001</edgemap>
+  <edgemap>001010010</edgemap>
+  <edgemap>001000111</edgemap>
+  <edgemap>000101110</edgemap>
+  <edgemap>100100101</edgemap>
+  <edgemap>110100010</edgemap>
+  <edgemap>111000100</edgemap>
+  <edgemap>011101000</edgemap>
+  <edgemap>101001001</edgemap>
+  <edgemap>111011100</edgemap>
+  <edgemap>011111001</edgemap>
+  <edgemap>101011011</edgemap>
+  <edgemap>010011111</edgemap>
+  <edgemap>001110111</edgemap>
+  <edgemap>100111110</edgemap>
+  <edgemap>110110101</edgemap>
+  <edgemap>001001111</edgemap>
+  <edgemap>000101111</edgemap>
+  <edgemap>100100111</edgemap>
+  <edgemap>110100110</edgemap>
+  <edgemap>111100100</edgemap>
+  <edgemap>111101000</edgemap>
+  <edgemap>111001001</edgemap>
+  <edgemap>001001001</edgemap>
+  <edgemap>000001111</edgemap>
+  <edgemap>100110110</edgemap>
+  <edgemap>110110100</edgemap>
+  <edgemap>111110000</edgemap>
+  <edgemap>111011000</edgemap>
+  <edgemap>011011001</edgemap>
+  <edgemap>001011011</edgemap>
+  <edgemap>000011111</edgemap>
+  <edgemap>111110010</edgemap>
+  <edgemap>000011101</edgemap>
+  <edgemap>000110011</edgemap>
+  <edgemap>100010110</edgemap>
+  <edgemap>010110100</edgemap>
+  <edgemap>101110000</edgemap>
+  <edgemap>110011000</edgemap>
+  <edgemap>011010001</edgemap>
+  <edgemap>110110111</edgemap>
+  <edgemap>111110110</edgemap>
+  <edgemap>111111100</edgemap>
+  <edgemap>111111001</edgemap>
+  <edgemap>111011011</edgemap>
+  <edgemap>011011111</edgemap>
+  <edgemap>001111111</edgemap>
+  <edgemap>000110111</edgemap>
+  <edgemap>100001111</edgemap>
+  <edgemap>010100111</edgemap>
+  <edgemap>101100110</edgemap>
+  <edgemap>110101100</edgemap>
+  <edgemap>111100001</edgemap>
+  <edgemap>111001010</edgemap>
+  <edgemap>011001101</edgemap>
+  <edgemap>000111011</edgemap>
+  <edgemap>100010111</edgemap>
+  <edgemap>010110110</edgemap>
+  <edgemap>101110100</edgemap>
+  <edgemap>110111000</edgemap>
+  <edgemap>111010001</edgemap>
+  <edgemap>011011010</edgemap>
+  <edgemap>001011010</edgemap>
+  <edgemap>001011101</edgemap>
+  <edgemap>011001011</edgemap>
+  <edgemap>000011011</edgemap>
+  <edgemap>000010111</edgemap>
+  <edgemap>000110110</edgemap>
+  <edgemap>100110100</edgemap>
+  <edgemap>110110000</edgemap>
+  <edgemap>111010000</edgemap>
+  <edgemap>011011000</edgemap>
+  <edgemap>010011011</edgemap>
+  <edgemap>001010111</edgemap>
+  <edgemap>000111110</edgemap>
+  <edgemap>100110101</edgemap>
+  <edgemap>110110010</edgemap>
+  <edgemap>111010100</edgemap>
+  <edgemap>011111000</edgemap>
+  <edgemap>011001110</edgemap>
+  <edgemap>001101101</edgemap>
+  <edgemap>100101011</edgemap>
+  <edgemap>110000111</edgemap>
+  <edgemap>011100110</edgemap>
+  <edgemap>101101100</edgemap>
+  <edgemap>110101001</edgemap>
+  <edgemap>100111001</edgemap>
+  <edgemap>110010011</edgemap>
+  <edgemap>011010110</edgemap>
+  <edgemap>001111100</edgemap>
+  <edgemap>001111000</edgemap>
+  <edgemap>100011001</edgemap>
+  <edgemap>010010011</edgemap>
+  <edgemap>001010110</edgemap>
+  <edgemap>000111100</edgemap>
+  <edgemap>100110001</edgemap>
+  <edgemap>110010010</edgemap>
+  <edgemap>000000110</edgemap>
+  <edgemap>000100100</edgemap>
+  <edgemap>100100000</edgemap>
+  <edgemap>110000000</edgemap>
+  <edgemap>011000000</edgemap>
+  <edgemap>001001000</edgemap>
+  <edgemap>000001001</edgemap>
+  <edgemap>100000111</edgemap>
+  <edgemap>010100110</edgemap>
+  <edgemap>101100100</edgemap>
+  <edgemap>110101000</edgemap>
+  <edgemap>111000001</edgemap>
+  <edgemap>011001010</edgemap>
+  <edgemap>001001101</edgemap>
+  <edgemap>101011001</edgemap>
+  <edgemap>000001110</edgemap>
+  <edgemap>000100101</edgemap>
+  <edgemap>100100010</edgemap>
+  <edgemap>110000100</edgemap>
+  <edgemap>011100000</edgemap>
+  <edgemap>101001000</edgemap>
+  <edgemap>010001001</edgemap>
+  <edgemap>000100011</edgemap>
+  <edgemap>100000110</edgemap>
+  <edgemap>010100100</edgemap>
+  <edgemap>101100000</edgemap>
+  <edgemap>110001000</edgemap>
+  <edgemap>011000001</edgemap>
+  <edgemap>001001010</edgemap>
+  <edgemap>001000011</edgemap>
+  <edgemap>001011111</edgemap>
+  <edgemap>001101110</edgemap>
+  <edgemap>001001100</edgemap>
+  <edgemap>000101001</edgemap>
+  <edgemap>100000011</edgemap>
+  <edgemap>010000110</edgemap>
+  <edgemap>001100100</edgemap>
+  <edgemap>100101000</edgemap>
+  <edgemap>110000001</edgemap>
+  <edgemap>011010100</edgemap>
+  <edgemap>111100111</edgemap>
+  <edgemap>111101110</edgemap>
+  <edgemap>111101101</edgemap>
+  <edgemap>111101011</edgemap>
+  <edgemap>111001111</edgemap>
+  <edgemap>011101111</edgemap>
+  <edgemap>101101111</edgemap>
+  <edgemap>000000011</edgemap>
+  <edgemap>001011001</edgemap>
+  <edgemap>101000011</edgemap>
+  <edgemap>010001110</edgemap>
+  <edgemap>001100101</edgemap>
+  <edgemap>100101010</edgemap>
+  <edgemap>110000101</edgemap>
+  <edgemap>011100010</edgemap>
+  <edgemap>101001100</edgemap>
+  <edgemap>010001011</edgemap>
+  <edgemap>011011100</edgemap>
+  <edgemap>001111001</edgemap>
+  <edgemap>100011011</edgemap>
+  <edgemap>010010111</edgemap>
+  <edgemap>001110110</edgemap>
+  <edgemap>100111100</edgemap>
+  <edgemap>110110001</edgemap>
+  <edgemap>100111011</edgemap>
+  <edgemap>110010111</edgemap>
+  <edgemap>011110110</edgemap>
+  <edgemap>101111100</edgemap>
+  <edgemap>110111001</edgemap>
+  <edgemap>111010011</edgemap>
+  <edgemap>011011110</edgemap>
+  <edgemap>010011110</edgemap>
+  <edgemap>001110101</edgemap>
+  <edgemap>100111010</edgemap>
+  <edgemap>110010101</edgemap>
+  <edgemap>011110010</edgemap>
+  <edgemap>101011100</edgemap>
+  <edgemap>010111001</edgemap>
+  <edgemap>011001100</edgemap>
+  <edgemap>001101001</edgemap>
+  <edgemap>100001011</edgemap>
+  <edgemap>010000111</edgemap>
+  <edgemap>001100110</edgemap>
+  <edgemap>100101100</edgemap>
+  <edgemap>110100001</edgemap>
+  <edgemap>010011100</edgemap>
+  <edgemap>001110001</edgemap>
+  <edgemap>100011010</edgemap>
+  <edgemap>010010101</edgemap>
+  <edgemap>001110010</edgemap>
+  <edgemap>100011100</edgemap>
+  <edgemap>010110001</edgemap>
+  <edgemap>000111000</edgemap>
+  <edgemap>100010001</edgemap>
+  <edgemap>010010010</edgemap>
+  <edgemap>001010100</edgemap>
+  <edgemap>011000010</edgemap>
+  <edgemap>111000010</edgemap>
+  <edgemap>000000101</edgemap>
+  <edgemap>000100010</edgemap>
+  <edgemap>100000100</edgemap>
+  <edgemap>010100000</edgemap>
+  <edgemap>101000000</edgemap>
+  <edgemap>010001000</edgemap>
+  <edgemap>001000001</edgemap>
+  <edgemap>000110101</edgemap>
+  <edgemap>100110010</edgemap>
+  <edgemap>110010100</edgemap>
+  <edgemap>011110000</edgemap>
+  <edgemap>101011000</edgemap>
+  <edgemap>010011001</edgemap>
+  <edgemap>001010011</edgemap>
+  <edgemap>001001110</edgemap>
+  <edgemap>000101101</edgemap>
+  <edgemap>100100011</edgemap>
+  <edgemap>110000110</edgemap>
+  <edgemap>011100100</edgemap>
+  <edgemap>101101000</edgemap>
+  <edgemap>110001001</edgemap>
+  <edgemap>000011110</edgemap>
+  <edgemap>100010011</edgemap>
+  <edgemap>010010110</edgemap>
+  <edgemap>001110100</edgemap>
+  <edgemap>100111000</edgemap>
+  <edgemap>110010001</edgemap>
+  <edgemap>011010010</edgemap>
+  <edgemap>001011100</edgemap>
+  <edgemap>101100001</edgemap>
+  <edgemap>110001010</edgemap>
+  <edgemap>011000101</edgemap>
+  <edgemap>001101010</edgemap>
+  <edgemap>100001101</edgemap>
+  <edgemap>010100011</edgemap>
+  <edgemap>101000110</edgemap>
+  <edgemap>100111111</edgemap>
+  <edgemap>010001101</edgemap>
+  <edgemap>001100011</edgemap>
+  <edgemap>100001110</edgemap>
+  <edgemap>010100101</edgemap>
+  <edgemap>101100010</edgemap>
+  <edgemap>110001100</edgemap>
+  <edgemap>011100001</edgemap>
+  <edgemap>011000011</edgemap>
+  <edgemap>100111101</edgemap>
+  <edgemap>110110011</edgemap>
+  <edgemap>111010110</edgemap>
+  <edgemap>011111100</edgemap>
+  <edgemap>101111001</edgemap>
+  <edgemap>110011011</edgemap>
+  <edgemap>011010111</edgemap>
+  <edgemap>100101001</edgemap>
+  <edgemap>110000011</edgemap>
+  <edgemap>011000110</edgemap>
+  <edgemap>001101100</edgemap>
+  <edgemap>111000011</edgemap>
+  <edgemap>010011010</edgemap>
+  <edgemap>001010101</edgemap>
+  <edgemap>000111010</edgemap>
+  <edgemap>100010101</edgemap>
+  <edgemap>010110010</edgemap>
+  <edgemap>101010100</edgemap>
+  <edgemap>010111000</edgemap>
+  <edgemap>000111001</edgemap>
+  <edgemap>001101011</edgemap>
+  <edgemap>001110011</edgemap>
+  <edgemap>100011110</edgemap>
+  <edgemap>010110101</edgemap>
+  <edgemap>101110010</edgemap>
+  <edgemap>110011100</edgemap>
+  <edgemap>011110001</edgemap>
+  <edgemap>101011010</edgemap>
+  <edgemap>110100101</edgemap>
+  <edgemap>111100010</edgemap>
+  <edgemap>111001100</edgemap>
+  <edgemap>011101001</edgemap>
+  <edgemap>101001011</edgemap>
+  <edgemap>010001111</edgemap>
+  <edgemap>001100111</edgemap>
+  <edgemap>000101011</edgemap>
+  <edgemap>001101111</edgemap>
+  <edgemap>100101111</edgemap>
+  <edgemap>110100111</edgemap>
+  <edgemap>111100110</edgemap>
+  <edgemap>111101100</edgemap>
+  <edgemap>111101001</edgemap>
+  <edgemap>111001011</edgemap>
+  <edgemap>100101110</edgemap>
+  <edgemap>000111101</edgemap>
+  <edgemap>100110011</edgemap>
+  <edgemap>110010110</edgemap>
+  <edgemap>011110100</edgemap>
+  <edgemap>101111000</edgemap>
+  <edgemap>110011001</edgemap>
+  <edgemap>011010011</edgemap>
+  <edgemap>000010110</edgemap>
+  <edgemap>101010010</edgemap>
+  <edgemap>000001000</edgemap>
+  <edgemap>000000001</edgemap>
+  <edgemap>000000010</edgemap>
+  <edgemap>000000100</edgemap>
+  <edgemap>000100000</edgemap>
+  <edgemap>100000000</edgemap>
+  <edgemap>010000000</edgemap>
+  <edgemap>101000001</edgemap>
+  <edgemap>010001010</edgemap>
+  <edgemap>001000101</edgemap>
+  <edgemap>000101010</edgemap>
+  <edgemap>100000101</edgemap>
+  <edgemap>010100010</edgemap>
+  <edgemap>101000100</edgemap>
+  <edgemap>101011111</edgemap>
+  <edgemap>010111111</edgemap>
+  <edgemap>101110111</edgemap>
+  <edgemap>110111110</edgemap>
+  <edgemap>111110101</edgemap>
+  <edgemap>111111010</edgemap>
+  <edgemap>111011101</edgemap>
+  <edgemap>101001111</edgemap>
+  <edgemap>010101111</edgemap>
+  <edgemap>101100111</edgemap>
+  <edgemap>110101110</edgemap>
+  <edgemap>111100101</edgemap>
+  <edgemap>111101010</edgemap>
+  <edgemap>111001101</edgemap>
+  <edgemap>111000111</edgemap>
+  <edgemap>011101110</edgemap>
+  <edgemap>101101101</edgemap>
+  <edgemap>110101011</edgemap>
+  <edgemap>111010010</edgemap>
+  <edgemap>000001101</edgemap>
+  <edgemap>011001111</edgemap>
+  <edgemap>110101111</edgemap>
+  <edgemap>011101011</edgemap>
+  <edgemap>001011110</edgemap>
+  <edgemap>001000100</edgemap>
+  <edgemap>000101000</edgemap>
+  <edgemap>100000001</edgemap>
+  <edgemap>010000010</edgemap>
+  <edgemap>001111101</edgemap>
+  <edgemap>010000011</edgemap>
+  <edgemap>001000110</edgemap>
+  <edgemap>000101100</edgemap>
+  <edgemap>100100001</edgemap>
+  <edgemap>110000010</edgemap>
+  <edgemap>011000100</edgemap>
+  <edgemap>001101000</edgemap>
+  <edgemap>010110111</edgemap>
+  <edgemap>101110110</edgemap>
+  <edgemap>110111100</edgemap>
+  <edgemap>111110001</edgemap>
+  <edgemap>111011010</edgemap>
+  <edgemap>011011101</edgemap>
+  <edgemap>001111011</edgemap>
+  <edgemap>100001001</edgemap>
+  <edgemap>000011000</edgemap>
+  <edgemap>000010001</edgemap>
+  <edgemap>000010010</edgemap>
+  <edgemap>000010100</edgemap>
+  <edgemap>000110000</edgemap>
+  <edgemap>100010000</edgemap>
+  <edgemap>010010000</edgemap>
+  <edgemap>010011101</edgemap>
+  <edgemap>100011111</edgemap>
+  <edgemap>001111110</edgemap>
+  <edgemap>000011100</edgemap>
+  <edgemap>101010001</edgemap>
+  <edgemap>011111110</edgemap>
+  <edgemap>101111101</edgemap>
+  <edgemap>110111011</edgemap>
+  <edgemap>111010111</edgemap>
+  <edgemap>101010011</edgemap>
+  <edgemap>001010000</edgemap>
+  <edgemap>101000101</edgemap>
+  <edgemap>010101010</edgemap>
+  <edgemap>000011010</edgemap>
+  <edgemap>000010101</edgemap>
+  <edgemap>000110010</edgemap>
+  <edgemap>100010100</edgemap>
+  <edgemap>010110000</edgemap>
+  <edgemap>101010000</edgemap>
+  <edgemap>010011000</edgemap>
+  <edgemap>010111011</edgemap>
+  <edgemap>101010111</edgemap>
+  <edgemap>010111110</edgemap>
+  <edgemap>101110101</edgemap>
+  <edgemap>110111010</edgemap>
+  <edgemap>111010101</edgemap>
+  <edgemap>011111010</edgemap>
+  <edgemap>001000000</edgemap>
+  <edgemap>111001110</edgemap>
+  <edgemap>011101101</edgemap>
+  <edgemap>101101011</edgemap>
+  <edgemap>110001111</edgemap>
+  <edgemap>011100111</edgemap>
+  <edgemap>101101110</edgemap>
+  <edgemap>110101101</edgemap>
+  <edgemap>100001100</edgemap>
+  <edgemap>010100001</edgemap>
+  <edgemap>101000010</edgemap>
+  <edgemap>010001100</edgemap>
+  <edgemap>001100001</edgemap>
+  <edgemap>100001010</edgemap>
+  <edgemap>010000101</edgemap>
+  <edgemap>001111010</edgemap>
+  <edgemap>100011101</edgemap>
+  <edgemap>010110011</edgemap>
+  <edgemap>101010110</edgemap>
+  <edgemap>010111100</edgemap>
+  <edgemap>101110001</edgemap>
+  <edgemap>110011010</edgemap>
+  <edgemap>111000101</edgemap>
+  <edgemap>011101010</edgemap>
+  <edgemap>101001101</edgemap>
+  <edgemap>010101011</edgemap>
+  <edgemap>101000111</edgemap>
+  <edgemap>010101110</edgemap>
+  <edgemap>101100101</edgemap>
+  <edgemap>111100011</edgemap>
+  <edgemap>010101000</edgemap>
+  <edgemap>011110111</edgemap>
+  <edgemap>101111110</edgemap>
+  <edgemap>110111101</edgemap>
+  <edgemap>111110011</edgemap>
+  <edgemap>111011110</edgemap>
+  <edgemap>011111101</edgemap>
+  <edgemap>101111011</edgemap>
+  <edgemap>110011111</edgemap>
+  <edgemap>101001010</edgemap>
+  <edgemap>001010001</edgemap>
+  <edgemap>010111010</edgemap>
+  <edgemap>101010101</edgemap>
+  <edgemap>010101100</edgemap>
+  <edgemap>000001010</edgemap>
+  <edgemap>011111011</edgemap>
+  <edgemap>101011101</edgemap>
+  <edgemap>010101101</edgemap>
+  <edgemap>101100011</edgemap>
+  <edgemap>110001110</edgemap>
+  <edgemap>011100101</edgemap>
+  <edgemap>101101010</edgemap>
+  <edgemap>110001101</edgemap>
+  <edgemap>011100011</edgemap>
+  <edgemap>010000001</edgemap>
+  <edgemap>001000010</edgemap>
+  <edgemap>000001100</edgemap>
+  <edgemap>000100001</edgemap>
+  <edgemap>100000010</edgemap>
+  <edgemap>010000100</edgemap>
+  <edgemap>001100000</edgemap>
+  <edgemap>110101010</edgemap>
+  <edgemap>001100010</edgemap>
+  <edgemap>011010101</edgemap>
+  <edgemap>111111011</edgemap>
+  <edgemap>111011111</edgemap>
+  <edgemap>011111111</edgemap>
+  <edgemap>101111111</edgemap>
+  <edgemap>110111111</edgemap>
+  <edgemap>111110111</edgemap>
+  <edgemap>111111110</edgemap>
+  <edgemap>011110011</edgemap>
+  <edgemap>101011110</edgemap>
+  <edgemap>010111101</edgemap>
+  <edgemap>101110011</edgemap>
+  <edgemap>110011110</edgemap>
+  <edgemap>011110101</edgemap>
+  <edgemap>101111010</edgemap>
+  <edgemap>111111101</edgemap>
+  <edgemap>010101001</edgemap>
+  <edgemap>100001000</edgemap>
+  <edgemap>101001110</edgemap>
+  <edgemap>110011101</edgemap>
+  <edgemap>111101111</edgemap>
+  <edgemap>111111111</edgemap>
+  <edgemap>000010000</edgemap>
+ </validedges>
+</preferences>
